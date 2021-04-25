@@ -19,18 +19,22 @@
             &:first-child {
                 left: 0;
                 top: 50%;
-                background: var(--purple-500);
+                background: var(--gray-800);
                 transform: translate(-50%, -50%);
+                &:hover {
+                    transition: 0.1s;
+                    background: var(--purple-500);
+                }
             }
             &:last-child {
                 right: 0;
                 top: 50%;
-                background: var(--gray-800);
-                transform: translate(50%, -50%);
-            }
-            &:hover {
-                transition: 0.1s;
                 background: var(--purple-500);
+                transform: translate(50%, -50%);
+                &:hover {
+                    transition: 0.1s;
+                    background: var(--green-500);
+                }
             }
         }
     }
