@@ -1,5 +1,6 @@
+<br>
 <h1 align="center">
-    <img width="100" alt="Podcastr" title="Podcastr" src="./github/favicon.png" />
+  <img alt="Web" src="github/print.png" width="1080">
 </h1>
 
 <p align="center">
@@ -10,8 +11,12 @@
   <img src="https://img.shields.io/github/stars/C0bal/reactjs-podcastr-nlw5?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
+
 <br>
 
+<h1 align="center">
+    <img width="100" alt="Podcastr" title="Podcastr" src="./github/favicon.png" />
+</h1>
 
 ## 🧪 Technologies
 
@@ -58,5 +63,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
-
+<br>
 <p align="center">Projected by Allyson de O. </p>
+
